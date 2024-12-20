@@ -1,4 +1,4 @@
 
-module main {
+module src {
 	requires java.desktop;
 }
