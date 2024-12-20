@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Map;
 /**
  * 
- * @author Rahav Shema and Tamar Ben Nahum
+ * @author Tamar Ben Nahum
  *
  */
 public class RuppinRent implements Serializable {

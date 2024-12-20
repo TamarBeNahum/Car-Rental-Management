@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 
 /**
  * Admin menu
- * @author Rahav Shema and Tamar Ben Nahum
+ * @author Tamar Ben Nahum
  *
  */
 public class AdminMenu extends JFrame {

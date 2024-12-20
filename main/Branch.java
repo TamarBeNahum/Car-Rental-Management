@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Objects;
 /**
- *  @author Rahav Shema and Tamar Ben Nahum
+ *  @author Tamar Ben Nahum
  *
  */
 public class Branch implements Serializable{

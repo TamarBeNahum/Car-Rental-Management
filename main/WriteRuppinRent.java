@@ -4,7 +4,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 /**
- *  @author Rahav Shema and Tamar Ben Nahum
+ *  @author Tamar Ben Nahum
  *
  */
 public class WriteRuppinRent {

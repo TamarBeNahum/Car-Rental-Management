@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 
 /**
  * 
- *   @author Rahav Shema and Tamar Ben Nahum
+ *   @author Tamar Ben Nahum
  *
  */
 public class UserMenu extends JFrame {

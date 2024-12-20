@@ -18,7 +18,7 @@ import javax.swing.JTextField;
 
 /**
  * 
- * @author Rahav Shema and Tamar Ben Nahum
+ * @author Tamar Ben Nahum
  *
  */
 public class SignUp extends JFrame {

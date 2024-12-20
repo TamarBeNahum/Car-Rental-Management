@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 /**
- *   @author Rahav Shema and Tamar Ben Nahum
+ *   @author Tamar Ben Nahum
  */
 public class ReadRuppinRent {
 	public static RuppinRent readRuppinRent() {

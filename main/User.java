@@ -3,7 +3,7 @@ package main;
 import java.io.Serializable;
 import java.util.Objects;
 /**
- *   @author Rahav Shema and Tamar Ben Nahum
+ *   @author Tamar Ben Nahum
  *
  */
 public class User implements Serializable{

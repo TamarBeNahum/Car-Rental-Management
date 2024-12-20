@@ -10,7 +10,7 @@ import javax.swing.JTextArea;
 
 /**
  * 
- * @author Rahav Shema and Tamar Ben Nahum
+ * @author Tamar Ben Nahum
  *
  */
 public class ShowAllBranch extends JFrame {

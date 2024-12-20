@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 /**
  * class add car
  * 
- * @author Rahav Shema and Tamar Ben Nahum
+ * @author Tamar Ben Nahum
  *
  */
 public class AddCar extends JFrame {

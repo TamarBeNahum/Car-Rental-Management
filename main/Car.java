@@ -8,7 +8,7 @@ import utils.E_CategoryStatus;
 /**
  * car class
  * 
- * @author Rahav Shema and Tamar Ben Nahum
+ * @author Tamar Ben Nahum
  *
  */
 

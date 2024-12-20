@@ -6,7 +6,7 @@ import java.awt.TextArea;
 
 import javax.swing.JFrame;
 /**
- *  @author Rahav Shema and Tamar Ben Nahum
+ *  @author Tamar Ben Nahum
  *
  */
 public class ShowUser extends JFrame {

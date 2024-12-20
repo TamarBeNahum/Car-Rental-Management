@@ -3,7 +3,7 @@ package main;
 import java.awt.Color;
 /**
  * 
- * @author Rahav Shema and Tamar Ben Nahum
+ * @author Tamar Ben Nahum
  *
  */
 public class Main {

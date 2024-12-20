@@ -20,7 +20,7 @@ import javax.swing.JTextField;
 /**
  * מחלקה שמקבלת רשימה של כל הרכבים שעונים על תנאי החיפש ומציגה אותם
  * 
- * @author Rahav Shema and Tamar Ben Nahum
+ * @author Tamar Ben Nahum
  *
  */
 public class ShowMatchingCars extends JFrame {

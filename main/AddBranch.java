@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 /**
- *  @author Rahav Shema and Tamar Ben Nahum
+ *  @author Tamar Ben Nahum
  * 
  *
  */
